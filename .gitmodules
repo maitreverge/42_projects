@@ -7,3 +7,6 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = https://github.com/maitreverge/get_next_line
+[submodule "fract-ol"]
+	path = fract-ol
+	url = https://github.com/maitreverge/fract-ol
