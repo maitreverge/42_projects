@@ -14,4 +14,4 @@ Those are my 42 common core projects.
 ||||||
 | 2 | [pipex](https://github.com/maitreverge/pipex) | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) |  |  `pipex` simulates a shell command pipeline, connecting inputs and outputs between programs. |
 | 2 | [fract'ol](https://github.com/maitreverge/fract-ol) | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) | ![fractol grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) | `fract'ol` is all about creating fractals. First graphical project using [MiniLibX](https://github.com/42Paris/minilibx-linux). |
-| 2 | push_swap | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) |  | `push_swap` program requires sorting a stack of numbers using limited operations efficiently. |
+| 2 | [push_swap](https://github.com/maitreverge/push_swap) | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) |  | `push_swap` program requires sorting a stack of numbers using limited operations efficiently. |
