@@ -10,3 +10,6 @@
 [submodule "fract-ol"]
 	path = fract-ol
 	url = https://github.com/maitreverge/fract-ol
+[submodule "pipex"]
+	path = pipex
+	url = https://github.com/maitreverge/pipex
