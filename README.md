@@ -1,6 +1,6 @@
 <h1 align="center">42_projects</h1>
 
-Those are my 42 common core projects.
+This is a overview of 42 common core projects.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
