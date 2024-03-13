@@ -18,3 +18,5 @@ This is a overview of my 42 common core projects.
 ||||||
 | 3 | [minishell](https://github.com/maitreverge/minishell) | [![My Skills](https://skillicons.dev/icons?i=c,bash,linux)](https://skillicons.dev) | ![manishell grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) | `minishell` is about creating a basic UNIX shell with command-line and process management. |
 | 3 | [philosophers](https://github.com/maitreverge/philosophers) | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) |  | `philosophers` tackles the dining philosophers problem, focusing on thread-based solutions.|
+||||||
+| 4 | [cub3d](https://github.com/maitreverge/cub3d) | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) |  | `cub3d` involves creating a simple 3D game engine using raycasting techniques throught [MiniLibX](https://github.com/42Paris/minilibx-linux) .|
