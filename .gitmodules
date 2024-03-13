@@ -13,3 +13,6 @@
 [submodule "pipex"]
 	path = pipex
 	url = https://github.com/maitreverge/pipex
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/maitreverge/push_swap
