@@ -20,3 +20,5 @@ This is a overview of my 42 common core projects.
 | 3 | [philosophers](https://github.com/maitreverge/philosophers) | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) | ![philo grade](https://img.shields.io/badge/:-100%25-success?style=flat-square&logo=42) | `philosophers` tackles the dining philosophers problem, focusing on thread-based solutions.|
 ||||||
 | 4 | [cub3d](https://github.com/maitreverge/cub3d) | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) | ![cub3d grade](https://img.shields.io/badge/:-90%25-success?style=flat-square&logo=42) | `cub3d` involves creating a simple 3D game engine using raycasting techniques throught [MiniLibX](https://github.com/42Paris/minilibx-linux) .|
+| 4 | [cpp_42](https://github.com/maitreverge/cpp_42) | [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) |  | `cpp_42` actually compiles 10 sub-project where we learn basics OOP concepts throught C++ .|
+
