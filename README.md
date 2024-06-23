@@ -2,6 +2,39 @@
 
 This is a overview of my 42 common core projects.
 
+<div align="center">
+  <a href="https://github.com/maitreverge/libft">
+    <img src="https://github.com/maitreverge/libft/blob/master/img/libft.png" alt="libft" width="30%">
+  </a>
+  <a href="https://github.com/maitreverge/ft_printf">
+    <img src="https://github.com/maitreverge/ft_printf/blob/master/img/ft_printf.png" alt="ft_printf" width="30%">
+  </a>
+  <a href="https://github.com/maitreverge/get_next_line">
+    <img src="https://github.com/maitreverge/get_next_line/blob/master/img/gnl.png" alt="gnl" width="30%">
+  </a>
+  <a href="https://github.com/maitreverge/pipex">
+    <img src="https://github.com/maitreverge/pipex/blob/master/img/pipex.png" alt="pipex" width="30%">
+  </a>
+  <a href="https://github.com/maitreverge/fract-ol">
+    <img src="https://github.com/maitreverge/fract-ol/blob/master/img/fractol.png" alt="fractol" width="30%">
+  </a>
+  <a href="https://github.com/maitreverge/push_swap">
+    <img src="https://github.com/maitreverge/push_swap/blob/master/img/push_swap.png" alt="push_swap" width="30%">
+  </a>
+  <a href="https://github.com/maitreverge/minishell">
+    <img src="https://github.com/maitreverge/minishell/blob/master/img/minishell.png" alt="minishell" width="30%">
+  </a>
+  <a href="https://github.com/maitreverge/philosophers">
+    <img src="https://github.com/maitreverge/philosophers/blob/master/img/philo.png" alt="philosophers" width="30%">
+  </a>
+  <a href="https://github.com/maitreverge/cub3d">
+    <img src="https://github.com/maitreverge/cub3d/blob/master/img/cub3d.png" alt="cub3d" width="30%">
+  </a>
+  <a href="https://github.com/maitreverge/cpp_42">
+    <img src="https://github.com/maitreverge/cpp_42/blob/master/img/cpp_42.png" alt="cpp_42" width="30%">
+  </a>
+</div>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 | Level | Name | Language / Tools | 42 Grade | Overview |
