@@ -19,3 +19,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = https://github.com/maitreverge/minishell
+[submodule "philosophers"]
+	path = philosophers
+	url = https://github.com/maitreverge/philosophers
