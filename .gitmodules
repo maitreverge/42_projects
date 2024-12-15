@@ -25,3 +25,6 @@
 [submodule "cub3d"]
 	path = cub3d
 	url = https://github.com/maitreverge/cub3d
+[submodule "cpp_42"]
+	path = cpp_42
+	url = https://github.com/maitreverge/cpp_42
