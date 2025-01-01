@@ -36,6 +36,14 @@ This is a overview of my 42 common core projects.
     <a href="https://github.com/maitreverge/inception">
     <img src="https://github.com/maitreverge/inception/blob/master/img/inception.png" alt="inception" width="30%">
   </a>
+    </a>
+    <a href="https://github.com/maitreverge/webserv">
+    <img src="https://github.com/maitreverge/webserv/blob/master/img/webserv.png" alt="webserv" width="30%">
+  </a>
+      </a>
+    <a href="https://github.com/maitreverge/ft_transcendence">
+    <img src="https://github.com/maitreverge/ft_transcendence/blob/master/img/transcendence.jpg" alt="ft_transcendence" width="30%">
+  </a>
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -60,4 +68,6 @@ This is a overview of my 42 common core projects.
 ||||||
 | 5 | [inception](https://github.com/maitreverge/inception) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,bash,nginx,wordpress,mariadb&theme=dark)](https://skillicons.dev) | ![inception_grade](https://img.shields.io/badge/:-120%25-success?style=flat-square&logo=42) | `inception` helps us master containers fundamentals with Docker.|
 | 5 | [webserv](https://github.com/maitreverge/webserv) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,bash,html,css,javascript&theme=dark)](https://skillicons.dev) | ![webserv grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) | A NGINX `webserv`-like, supporting HTTP 1.1.|
+||||||
+| 6 | [ft_transcendence](https://github.com/maitreverge/ft_transcendence) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,docker,django&theme=dark)](https://skillicons.dev) |  | `ft_transcendence` is full stack web-app, focussing on the PONG game implementation with modern web features.|
 
