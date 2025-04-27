@@ -42,7 +42,7 @@ This is a overview of my 42 common core projects.
   </a>
       </a>
     <a href="https://github.com/maitreverge/ft_transcendence">
-    <img src="https://github.com/maitreverge/ft_transcendence/blob/master/img/transcendence.jpg" alt="ft_transcendence" width="30%">
+    <img src="https://github.com/maitreverge/ft_transcendence/blob/main/img/transcendence.jpg" alt="ft_transcendence" width="30%">
   </a>
 </div>
 
@@ -69,5 +69,5 @@ This is a overview of my 42 common core projects.
 | 5 | [inception](https://github.com/maitreverge/inception) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,bash,nginx,wordpress,mariadb&theme=dark)](https://skillicons.dev) | ![inception_grade](https://img.shields.io/badge/:-120%25-success?style=flat-square&logo=42) | `inception` helps us master containers fundamentals with Docker.|
 | 5 | [webserv](https://github.com/maitreverge/webserv) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,bash,html,css,javascript&theme=dark)](https://skillicons.dev) | ![webserv grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) | `webserv` is a NGINX-like web-server built in C++, supporting HTTP/1.1|
 ||||||
-| 6 | [ft_transcendence](https://github.com/maitreverge/ft_transcendence) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,docker,django&theme=dark)](https://skillicons.dev) |  | `ft_transcendence` is a full-stack web application that uses modern frameworks and techniques to recreate the iconic 1972 game PONG.|
+| 6 | [ft_transcendence](https://github.com/maitreverge/ft_transcendence) | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,docker,django&theme=dark)](https://skillicons.dev) | ![transendence grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42) | `ft_transcendence` is a full-stack web application that uses modern frameworks and techniques to recreate the iconic 1972 game PONG.|
 
