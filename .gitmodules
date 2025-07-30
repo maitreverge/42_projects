@@ -31,3 +31,9 @@
 [submodule "inception"]
 	path = inception
 	url = https://github.com/maitreverge/inception
+[submodule "webserv"]
+	path = webserv
+	url = https://github.com/maitreverge/webserv
+[submodule "ft_transcendence"]
+	path = ft_transcendence
+	url = https://github.com/maitreverge/ft_transcendence
